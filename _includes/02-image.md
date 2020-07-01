@@ -1,1 +1,1 @@
-![Image of Sonic](https://images.app.goo.gl/fb92UjD9hNWX6mUg8)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
