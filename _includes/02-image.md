@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Image of Sonic](https://images.app.goo.gl/fb92UjD9hNWX6mUg8)
